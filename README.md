@@ -4,7 +4,8 @@
 
 ##### Michael Labun, Sofia Bahmutsky, Yuening Li
 
-Stats Can says that opioid overdoses are partially fuelled by white-market retail sales.  We explored available US data to see if there's evidence for this influence.
+####Summary
+Statistics Canada says that opioid overdoses are partially fuelled by white-market retail sales.  We explored available US data to see if there's evidence for this influence.
 
 #### Motivation
 Deaths due to opioid overdose have spiked in Canada, doubling between 2015 and 2017 (Statistics Canada, 2017). Statistics Canada claims that while illegal drugs with fentanyl are part of the problem, “...prescription opioids have also contributed to the crisis... High rates of opioid prescribing mean that more people are being exposed to the risks of opioids.”
